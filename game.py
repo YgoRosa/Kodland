@@ -113,6 +113,7 @@ create_enemy('barnacle_attack', 10, 11, 0)
 # Criando outro inimigo tipo barnacle
 create_enemy('barnacle_attack', 18.5, 10, 0)
 
+# Criando outro inimigo tipo barnacle
 create_enemy('barnacle_attack', 12.5, 2, 0)
 
 
