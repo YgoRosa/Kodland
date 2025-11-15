@@ -111,7 +111,10 @@ def create_enemy(enemy_name, enemy_tile_left, enemy_tile_bottom, enemy_vx):
 create_enemy('barnacle_attack', 10, 11, 0)
 
 # Criando outro inimigo tipo barnacle
-create_enemy('barnacle_attack', 18, 10, 0)
+create_enemy('barnacle_attack', 18.5, 10, 0)
+
+create_enemy('barnacle_attack', 12.5, 2, 0)
+
 
 # Criando um inimigo tipo slime de fogo
 create_enemy('slimefire_walkleft', 24, 4, SLIMEFIRE_WALK_SPEED)
