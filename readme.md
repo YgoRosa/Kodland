@@ -18,6 +18,12 @@ Este é um jogo de plataforma simples criado com a biblioteca `pgzero`. O jogo a
 4.  Use a barra de espaço para pular.
 5.  Evite os inimigos e obstáculos para não voltar para o começo.
 
+## Sugestão para Resolução de Tela (Zoom)
+O jogo foi projetado para uma grade de 30 x 15 tiles de 64 pixels cada, resultando em uma resolução de 1920 X 960 pixels.
+Se o jogo parecer muito `zoomado` ou as bordas da janela ficarem fora da tela:
+Isso pode ocorrer se a resolução nativa do seu monitor for menor que 1920 X 960 ou se o dimensionamento do seu sistema operacional (Windows/macOS) estiver ajustado para mais de 100%.
+Para melhorar a visualização e evitar que o jogo fique com zoom excessivo, considere diminuir a resolução de tela do seu computador antes de executar o jogo.
+
 ## Estrutura do Repositório
 
 - `game.py`: O código-fonte principal do jogo.
